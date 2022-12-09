@@ -4,11 +4,9 @@ importers:
 
   .:
     specifiers:
-      lib: workspace:*
       prettier: latest
       turbo: latest
     devDependencies:
-      lib: link:packages/lib
       prettier: 2.8.1
       turbo: 1.6.3
 
