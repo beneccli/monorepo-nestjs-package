@@ -1,0 +1,10 @@
+{
+  "name": "lib",
+  "version": "0.0.0",
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "devDependencies": {
+    "tsconfig": "workspace:*",
+    "typescript": "^4.5.2"
+  }
+}
